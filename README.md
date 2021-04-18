@@ -8,10 +8,12 @@ Compiling files :
 `
 gcc serveur.c -pthread  -o serveur -w
 `
+
 * Client :
 `
 gcc client.c -pthread  -o client -w
 `
+
 Executing the code, connection established :
 
 <p align="center">
